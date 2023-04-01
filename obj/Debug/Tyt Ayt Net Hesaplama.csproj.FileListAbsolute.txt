@@ -1,0 +1,11 @@
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.csproj.AssemblyReference.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt_Ayt_Net_Hesaplama.Form1.resources
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt_Ayt_Net_Hesaplama.Properties.Resources.resources
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.csproj.GenerateResource.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\bin\Debug\Tyt Ayt Net Hesaplama.exe.config
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\bin\Debug\Tyt Ayt Net Hesaplama.exe
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\bin\Debug\Tyt Ayt Net Hesaplama.pdb
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.exe
+C:\Users\307-Öğlen-Yazılım\source\repos\Tyt Ayt Net Hesaplama\Tyt Ayt Net Hesaplama\obj\Debug\Tyt Ayt Net Hesaplama.pdb
